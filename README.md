@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JEvaldo
+- 👀 I’m interested in learning a lot
+- 🌱 I’m currently learning python and C
+- 💞️ I can't help much at the moment, because I'm starting, but I'm always available!!
